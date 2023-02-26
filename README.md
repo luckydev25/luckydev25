@@ -9,8 +9,6 @@
     <img src="https://visitor-badge.laobi.icu/badge?page_id=ruppysuppy.ruppysuppy" alt="visitors">
 </div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fauzanlbs" alt="fauzanlbs" /></a> </p>
-
 - 🔭 My LinkedIn Profile(https://www.linkedin.com/in/top-dev-075814267/)
 
 - 🌱 My skilles :  **React, Laravel, Vue, TypeScript, NFT, DEX, DEFI, DAO. Next.js**
