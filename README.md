@@ -1,6 +1,14 @@
 <h1 align="center">👋 Welcome To My Github Profile 👋</h1>
 <h3 align="center">Web & Blockchain Expert from Ukraine</h3>
 
+<div align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=ruppysuppy&row=1&column=6&margin-h=8&theme=darkhub&count_private=true&margin-w=15&no-frame=true" alt="profile trophies" />
+    <br />
+    <img src="https://github-readme-stats.vercel.app/api?username=ruppysuppy&show_icons=true&hide_border=true" alt="Tapajyoti Bose's GitHub Stats">
+    <br />
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=ruppysuppy.ruppysuppy" alt="visitors">
+</div>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fauzanlbs" alt="fauzanlbs" /></a> </p>
 
 - 🔭 My LinkedIn Profile(https://www.linkedin.com/in/top-dev-075814267/)
