@@ -1,5 +1,5 @@
 <h1 align="center">👋 Welcome To My Github Profile 👋</h1>
-<h3 align="center">Web & Blockchain Expert from Ukraine</h3>
+<h3 align="center">Web Frontend & Backend Expert</h3>
 
 <div align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=ruppysuppy&row=1&column=6&margin-h=8&theme=darkhub&count_private=true&margin-w=15&no-frame=true" alt="profile trophies" />
