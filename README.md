@@ -93,8 +93,3 @@
 ![gtx-1060](https://img.shields.io/badge/NVIDIA-GTX_1060-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 ![windows](https://img.shields.io/badge/Windows_10-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![vs-code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
-
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/fauzanlubis"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="fauzanlubis" /></a></p><br><br>
-<br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fauzanlbs&show_icons=true&locale=en&layout=compact" alt="fauzanlbs" /></p>
