@@ -21,8 +21,8 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/top-dev-075814267/](https://www.linkedin.com/in/top-dev-075814267/)\
 
-<h4 align="center">Telegram: @topdev25</h4>
-<h4 align="center">Skype: live:.cid.e8b393bd103921f2</h4>
+<!-- <h4 align="center">Telegram: @topdev25</h4>
+<h4 align="center">Skype: live:.cid.e8b393bd103921f2</h4> -->
 <p align="left">
 </p>
 
